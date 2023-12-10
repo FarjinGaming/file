@@ -1,4 +1,4 @@
-## README for file(1) Command and the libmagic(3) library ##
+#farjin# README for file(1) Command and the libmagic(3) library ##
 
     @(#) $File: README.md,v 1.5 2023/05/28 13:59:47 christos Exp $
 
